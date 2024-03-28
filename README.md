@@ -4,10 +4,10 @@ This Python script generates a synthetic dataset simulating pawn ticket records 
 
 # Features
 
--Generates synthetic pawn ticket records for a pawnshop.
--Simulates customer information, loan details, and transaction history.
--Includes randomization for realistic variations in loan amounts, installment amounts, and currency exchange rates.
--Supports customization of dataset size, date range, and other parameters.
+- Generates synthetic pawn ticket records for a pawnshop.
+- Simulates customer information, loan details, and transaction history.
+- Includes randomization for realistic variations in loan amounts, installment amounts, and currency exchange rates.
+- Supports customization of dataset size, date range, and other parameters.
 
 # Dependencies
 
