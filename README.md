@@ -11,29 +11,29 @@ This Python script generates a synthetic dataset simulating pawn ticket records 
 
 # Dependencies
 
--pandas: Data manipulation and analysis library.
--numpy: Fundamental package for scientific computing with Python.
--Faker: Python library for generating fake data.
+- pandas: Data manipulation and analysis library.
+- numpy: Fundamental package for scientific computing with Python.
+- Faker: Python library for generating fake data.
 
 # Dataset Structure
 The generated dataset includes the following columns:
 
--ticket_id
--date
--customer_id
--gender
--dob (date of birth)
--age
--branch_id
--province
--purity
--weight
--no_of_article
--loan_amount
--interest_rate
--interest_accrued
--no_of_installement
--installement_amount
+- ticket_id
+- date
+- customer_id
+- gender
+- dob (date of birth)
+- age
+- branch_id
+- province
+- purity
+- weight
+- no_of_article
+- loan_amount
+- interest_rate
+- interest_accrued
+- no_of_installement
+- installement_amount
 -monthly_paid_amount
 -outstanding_amount
 -status
