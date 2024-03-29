@@ -43,4 +43,4 @@ The generated dataset includes the following columns:
 - dollar_rate
 
 ## License
-This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+This project is licensed under the [CC0-1.0]([https://github.com/ruwanpathirana/Pawning-Dataset-Generate/blob/main/LICENSE.txt](https://github.com/github/gitignore/blob/main/LICENSE))
